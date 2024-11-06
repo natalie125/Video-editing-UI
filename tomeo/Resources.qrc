@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>youtube.svg</file>
+        <file>tiktok.svg</file>
+        <file>close.png</file>
+        <file>export.png</file>
+        <file>pause.png</file>
+        <file>play.png</file>
+        <file>skip-to-start.png</file>
+        <file>undo.png</file>
+        <file>redo.png</file>
+        <file>video.png</file>
+        <file>music.png</file>
+        <file>effects.png</file>
+        <file>sticker.png</file>
+        <file>text.png</file>
+        <file>animations.png</file>
+    </qresource>
+</RCC>
